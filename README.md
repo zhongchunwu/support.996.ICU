@@ -557,3 +557,4 @@ Supported by / 支持者:
 * Zuokun Ouyang, PhD Student, Université d'Orléans
 * BaiChao Liu(刘百超), High School Student
 * Zhuo Quan(全卓), Software Engineer, Zhengzhou, China
+* ChunWu Zhong(钟春武）Bad Uncle，Embedded Software Engineer,Huzhou,China
